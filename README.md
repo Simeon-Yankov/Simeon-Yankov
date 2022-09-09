@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Simeon-Yankov
 - 📫 How to reach me simeon.n.qnkov@gmail.com
 
 <!---
